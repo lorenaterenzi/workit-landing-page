@@ -1,6 +1,6 @@
 # Frontend Mentor - Workit landing page solution
 
-This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Workit landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/workit-landing-page-2fYnyle5lu). Frontend Mentor challenges help you improve your coding skills by building realistic projects. You can check my page here: https://workit-landing-page-alpha.vercel.app/
 
 I've had a hard time doing the rounded borders required and placing the different images at their respective places, it brought me a lot of knowledge about positioning with CSS and how to use "divs" to build shapes. The project is not perfect and it needs a lot of work still, but since I haven't used any other technologies I think I did pretty well. After I've studied some other ways of building pages, I'll remake this challenge.
 
